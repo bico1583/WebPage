@@ -1,1 +1,1 @@
-# stranka
+# Webpage for the future portfolio
